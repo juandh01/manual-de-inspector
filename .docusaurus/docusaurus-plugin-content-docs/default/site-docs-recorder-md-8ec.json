@@ -1,0 +1,27 @@
+{
+  "id": "recorder",
+  "title": "Panel Recorder (Flujos y Tests)",
+  "description": "🎬 ¿Qué es el Panel Recorder?",
+  "source": "@site/docs/recorder.md",
+  "sourceDirName": ".",
+  "slug": "/recorder",
+  "permalink": "/manual-de-inspector/docs/recorder",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/juandh01/manual-de-inspector/docs/recorder.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "recorder",
+    "title": "Panel Recorder (Flujos y Tests)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Auditoría con Lighthouse",
+    "permalink": "/manual-de-inspector/docs/lighthouse"
+  },
+  "next": {
+    "title": "Recursos y Herramientas Útiles",
+    "permalink": "/manual-de-inspector/docs/recursos"
+  }
+}

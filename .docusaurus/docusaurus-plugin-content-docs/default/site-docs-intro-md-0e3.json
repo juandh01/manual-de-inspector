@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "Introducción al Inspector",
+  "description": "🔎 ¿Qué es el Inspector de Elementos?",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/manual-de-inspector/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/juandh01/manual-de-inspector/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro",
+    "title": "Introducción al Inspector"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Panel de Elementos (DOM)",
+    "permalink": "/manual-de-inspector/docs/estructura-html"
+  }
+}

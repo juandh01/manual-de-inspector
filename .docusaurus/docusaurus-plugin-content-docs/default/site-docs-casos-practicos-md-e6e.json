@@ -1,0 +1,27 @@
+{
+  "id": "casos-practicos",
+  "title": "Casos Prácticos",
+  "description": "🔐 ¿Por qué esta sección?",
+  "source": "@site/docs/casos-practicos.md",
+  "sourceDirName": ".",
+  "slug": "/casos-practicos",
+  "permalink": "/manual-de-inspector/docs/casos-practicos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/juandh01/manual-de-inspector/docs/casos-practicos.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "casos-practicos",
+    "title": "Casos Prácticos"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trucos y Tips",
+    "permalink": "/manual-de-inspector/docs/trucos"
+  },
+  "next": {
+    "title": "Panel Sources (Depuración y Archivos)",
+    "permalink": "/manual-de-inspector/docs/sources"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "toc",
+  "title": "Tabla de Contenido del Manual",
+  "description": "Este manual te guía paso a paso por cada rincón del Inspector de Elementos y las herramientas avanzadas de DevTools.",
+  "source": "@site/docs/toc.md",
+  "sourceDirName": ".",
+  "slug": "/toc",
+  "permalink": "/manual-de-inspector/docs/toc",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/juandh01/manual-de-inspector/docs/toc.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "toc",
+    "title": "Tabla de Contenido del Manual"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Recursos y Herramientas Útiles",
+    "permalink": "/manual-de-inspector/docs/recursos"
+  }
+}

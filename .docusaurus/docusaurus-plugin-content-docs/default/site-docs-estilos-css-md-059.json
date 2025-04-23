@@ -1,0 +1,27 @@
+{
+  "id": "estilos-css",
+  "title": "Panel de Estilos (CSS)",
+  "description": "🎨 ¿Qué es el Panel de Estilos?",
+  "source": "@site/docs/estilos-css.md",
+  "sourceDirName": ".",
+  "slug": "/estilos-css",
+  "permalink": "/manual-de-inspector/docs/estilos-css",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/juandh01/manual-de-inspector/docs/estilos-css.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "estilos-css",
+    "title": "Panel de Estilos (CSS)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Panel de Elementos (DOM)",
+    "permalink": "/manual-de-inspector/docs/estructura-html"
+  },
+  "next": {
+    "title": "Consola JavaScript",
+    "permalink": "/manual-de-inspector/docs/consola-js"
+  }
+}

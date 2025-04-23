@@ -1,0 +1,27 @@
+{
+  "id": "consola-js",
+  "title": "Consola JavaScript",
+  "description": "🧪 ¿Qué es la Consola de JavaScript?",
+  "source": "@site/docs/consola-js.md",
+  "sourceDirName": ".",
+  "slug": "/consola-js",
+  "permalink": "/manual-de-inspector/docs/consola-js",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/juandh01/manual-de-inspector/docs/consola-js.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "consola-js",
+    "title": "Consola JavaScript"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Panel de Estilos (CSS)",
+    "permalink": "/manual-de-inspector/docs/estilos-css"
+  },
+  "next": {
+    "title": "Panel de Red (Network)",
+    "permalink": "/manual-de-inspector/docs/red-network"
+  }
+}

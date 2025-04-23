@@ -1,0 +1,27 @@
+{
+  "id": "red-network",
+  "title": "Panel de Red (Network)",
+  "description": "🌐 ¿Qué es el Panel de Red?",
+  "source": "@site/docs/red-network.md",
+  "sourceDirName": ".",
+  "slug": "/red-network",
+  "permalink": "/manual-de-inspector/docs/red-network",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/juandh01/manual-de-inspector/docs/red-network.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "red-network",
+    "title": "Panel de Red (Network)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Consola JavaScript",
+    "permalink": "/manual-de-inspector/docs/consola-js"
+  },
+  "next": {
+    "title": "Panel de Aplicación (Storage)",
+    "permalink": "/manual-de-inspector/docs/almacenamiento"
+  }
+}

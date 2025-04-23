@@ -1,0 +1,27 @@
+{
+  "id": "sources",
+  "title": "Panel Sources (Depuración y Archivos)",
+  "description": "🧠 ¿Qué es el Panel Sources?",
+  "source": "@site/docs/sources.md",
+  "sourceDirName": ".",
+  "slug": "/sources",
+  "permalink": "/manual-de-inspector/docs/sources",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/juandh01/manual-de-inspector/docs/sources.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "sources",
+    "title": "Panel Sources (Depuración y Archivos)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Casos Prácticos",
+    "permalink": "/manual-de-inspector/docs/casos-practicos"
+  },
+  "next": {
+    "title": "Panel Performance (Rendimiento)",
+    "permalink": "/manual-de-inspector/docs/performance"
+  }
+}

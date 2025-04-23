@@ -1,0 +1,118 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/manual-de-inspector/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/manual-de-inspector/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "accesibilidad",
+              "path": "/manual-de-inspector/docs/accesibilidad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "almacenamiento",
+              "path": "/manual-de-inspector/docs/almacenamiento",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "casos-practicos",
+              "path": "/manual-de-inspector/docs/casos-practicos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "consola-js",
+              "path": "/manual-de-inspector/docs/consola-js",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "estilos-css",
+              "path": "/manual-de-inspector/docs/estilos-css",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "estructura-html",
+              "path": "/manual-de-inspector/docs/estructura-html",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/manual-de-inspector/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "lighthouse",
+              "path": "/manual-de-inspector/docs/lighthouse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "memory",
+              "path": "/manual-de-inspector/docs/memory",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "performance",
+              "path": "/manual-de-inspector/docs/performance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recorder",
+              "path": "/manual-de-inspector/docs/recorder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recursos",
+              "path": "/manual-de-inspector/docs/recursos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "red-network",
+              "path": "/manual-de-inspector/docs/red-network",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rendimiento",
+              "path": "/manual-de-inspector/docs/rendimiento",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "security",
+              "path": "/manual-de-inspector/docs/security",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sources",
+              "path": "/manual-de-inspector/docs/sources",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "toc",
+              "path": "/manual-de-inspector/docs/toc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "trucos",
+              "path": "/manual-de-inspector/docs/trucos",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/manual-de-inspector/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

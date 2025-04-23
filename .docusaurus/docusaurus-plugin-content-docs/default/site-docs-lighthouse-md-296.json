@@ -1,0 +1,27 @@
+{
+  "id": "lighthouse",
+  "title": "Auditoría con Lighthouse",
+  "description": "💡 ¿Qué es Lighthouse?",
+  "source": "@site/docs/lighthouse.md",
+  "sourceDirName": ".",
+  "slug": "/lighthouse",
+  "permalink": "/manual-de-inspector/docs/lighthouse",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/juandh01/manual-de-inspector/docs/lighthouse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lighthouse",
+    "title": "Auditoría con Lighthouse"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Panel Security (Seguridad del sitio)",
+    "permalink": "/manual-de-inspector/docs/security"
+  },
+  "next": {
+    "title": "Panel Recorder (Flujos y Tests)",
+    "permalink": "/manual-de-inspector/docs/recorder"
+  }
+}

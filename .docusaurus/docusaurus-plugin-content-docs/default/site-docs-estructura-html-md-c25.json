@@ -1,0 +1,27 @@
+{
+  "id": "estructura-html",
+  "title": "Panel de Elementos (DOM)",
+  "description": "📐 ¿Qué es el DOM?",
+  "source": "@site/docs/estructura-html.md",
+  "sourceDirName": ".",
+  "slug": "/estructura-html",
+  "permalink": "/manual-de-inspector/docs/estructura-html",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/juandh01/manual-de-inspector/docs/estructura-html.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "estructura-html",
+    "title": "Panel de Elementos (DOM)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introducción al Inspector",
+    "permalink": "/manual-de-inspector/docs/intro"
+  },
+  "next": {
+    "title": "Panel de Estilos (CSS)",
+    "permalink": "/manual-de-inspector/docs/estilos-css"
+  }
+}

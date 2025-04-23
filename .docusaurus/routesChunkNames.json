@@ -1,0 +1,101 @@
+{
+  "/manual-de-inspector/markdown-page-5ee": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "393be207"
+  },
+  "/manual-de-inspector/docs-f4e": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/manual-de-inspector/docs-925": {
+    "__comp": "a7bd4aaa",
+    "__props": "f7108126"
+  },
+  "/manual-de-inspector/docs-4b7": {
+    "__comp": "a94703ab"
+  },
+  "/manual-de-inspector/docs/accesibilidad-55e": {
+    "__comp": "17896441",
+    "content": "bfb5ff79"
+  },
+  "/manual-de-inspector/docs/almacenamiento-400": {
+    "__comp": "17896441",
+    "content": "1d36bfd2"
+  },
+  "/manual-de-inspector/docs/casos-practicos-541": {
+    "__comp": "17896441",
+    "content": "e6e99709"
+  },
+  "/manual-de-inspector/docs/consola-js-db2": {
+    "__comp": "17896441",
+    "content": "8cd1ae41"
+  },
+  "/manual-de-inspector/docs/estilos-css-501": {
+    "__comp": "17896441",
+    "content": "059bebfc"
+  },
+  "/manual-de-inspector/docs/estructura-html-8c1": {
+    "__comp": "17896441",
+    "content": "c25e7b43"
+  },
+  "/manual-de-inspector/docs/intro-3dd": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/manual-de-inspector/docs/lighthouse-259": {
+    "__comp": "17896441",
+    "content": "296ced85"
+  },
+  "/manual-de-inspector/docs/memory-20f": {
+    "__comp": "17896441",
+    "content": "c104c5b8"
+  },
+  "/manual-de-inspector/docs/performance-3cc": {
+    "__comp": "17896441",
+    "content": "edefc60b"
+  },
+  "/manual-de-inspector/docs/recorder-123": {
+    "__comp": "17896441",
+    "content": "8ec23324"
+  },
+  "/manual-de-inspector/docs/recursos-c74": {
+    "__comp": "17896441",
+    "content": "037f3b4f"
+  },
+  "/manual-de-inspector/docs/red-network-b52": {
+    "__comp": "17896441",
+    "content": "3c2522d9"
+  },
+  "/manual-de-inspector/docs/rendimiento-8d1": {
+    "__comp": "17896441",
+    "content": "f1b355b6"
+  },
+  "/manual-de-inspector/docs/security-073": {
+    "__comp": "17896441",
+    "content": "db32d859"
+  },
+  "/manual-de-inspector/docs/sources-ced": {
+    "__comp": "17896441",
+    "content": "b56bba22"
+  },
+  "/manual-de-inspector/docs/toc-394": {
+    "__comp": "17896441",
+    "content": "cfc7de0c"
+  },
+  "/manual-de-inspector/docs/trucos-2a3": {
+    "__comp": "17896441",
+    "content": "52bcb06e"
+  },
+  "/manual-de-inspector/-d98": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

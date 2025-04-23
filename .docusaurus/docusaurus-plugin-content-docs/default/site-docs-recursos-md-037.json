@@ -1,0 +1,27 @@
+{
+  "id": "recursos",
+  "title": "Recursos y Herramientas Útiles",
+  "description": "🌐 Documentación oficial",
+  "source": "@site/docs/recursos.md",
+  "sourceDirName": ".",
+  "slug": "/recursos",
+  "permalink": "/manual-de-inspector/docs/recursos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/juandh01/manual-de-inspector/docs/recursos.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "recursos",
+    "title": "Recursos y Herramientas Útiles"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Panel Recorder (Flujos y Tests)",
+    "permalink": "/manual-de-inspector/docs/recorder"
+  },
+  "next": {
+    "title": "Tabla de Contenido del Manual",
+    "permalink": "/manual-de-inspector/docs/toc"
+  }
+}

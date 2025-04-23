@@ -1,0 +1,27 @@
+{
+  "id": "trucos",
+  "title": "Trucos y Tips",
+  "description": "🧠 ¿Para qué sirve esta sección?",
+  "source": "@site/docs/trucos.md",
+  "sourceDirName": ".",
+  "slug": "/trucos",
+  "permalink": "/manual-de-inspector/docs/trucos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/juandh01/manual-de-inspector/docs/trucos.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "trucos",
+    "title": "Trucos y Tips"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rendimiento y Performance",
+    "permalink": "/manual-de-inspector/docs/rendimiento"
+  },
+  "next": {
+    "title": "Casos Prácticos",
+    "permalink": "/manual-de-inspector/docs/casos-practicos"
+  }
+}

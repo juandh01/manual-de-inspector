@@ -1,0 +1,27 @@
+{
+  "id": "security",
+  "title": "Panel Security (Seguridad del sitio)",
+  "description": "🔒 ¿Qué es el Panel Security?",
+  "source": "@site/docs/security.md",
+  "sourceDirName": ".",
+  "slug": "/security",
+  "permalink": "/manual-de-inspector/docs/security",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/juandh01/manual-de-inspector/docs/security.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "security",
+    "title": "Panel Security (Seguridad del sitio)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Panel Memory (Memoria y Heap)",
+    "permalink": "/manual-de-inspector/docs/memory"
+  },
+  "next": {
+    "title": "Auditoría con Lighthouse",
+    "permalink": "/manual-de-inspector/docs/lighthouse"
+  }
+}

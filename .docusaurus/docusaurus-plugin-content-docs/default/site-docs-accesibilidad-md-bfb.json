@@ -1,0 +1,27 @@
+{
+  "id": "accesibilidad",
+  "title": "Panel de Accesibilidad (A11Y)",
+  "description": "🧱 ¿Qué es el Panel de Accesibilidad?",
+  "source": "@site/docs/accesibilidad.md",
+  "sourceDirName": ".",
+  "slug": "/accesibilidad",
+  "permalink": "/manual-de-inspector/docs/accesibilidad",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/juandh01/manual-de-inspector/docs/accesibilidad.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "accesibilidad",
+    "title": "Panel de Accesibilidad (A11Y)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Panel de Aplicación (Storage)",
+    "permalink": "/manual-de-inspector/docs/almacenamiento"
+  },
+  "next": {
+    "title": "Rendimiento y Performance",
+    "permalink": "/manual-de-inspector/docs/rendimiento"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "almacenamiento",
+  "title": "Panel de Aplicación (Storage)",
+  "description": "⚙️ ¿Qué es el Panel de Aplicación?",
+  "source": "@site/docs/almacenamiento.md",
+  "sourceDirName": ".",
+  "slug": "/almacenamiento",
+  "permalink": "/manual-de-inspector/docs/almacenamiento",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/juandh01/manual-de-inspector/docs/almacenamiento.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "almacenamiento",
+    "title": "Panel de Aplicación (Storage)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Panel de Red (Network)",
+    "permalink": "/manual-de-inspector/docs/red-network"
+  },
+  "next": {
+    "title": "Panel de Accesibilidad (A11Y)",
+    "permalink": "/manual-de-inspector/docs/accesibilidad"
+  }
+}

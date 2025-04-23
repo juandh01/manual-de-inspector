@@ -1,0 +1,27 @@
+{
+  "id": "memory",
+  "title": "Panel Memory (Memoria y Heap)",
+  "description": "📈 ¿Qué es el Panel Memory?",
+  "source": "@site/docs/memory.md",
+  "sourceDirName": ".",
+  "slug": "/memory",
+  "permalink": "/manual-de-inspector/docs/memory",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/juandh01/manual-de-inspector/docs/memory.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "memory",
+    "title": "Panel Memory (Memoria y Heap)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Panel Performance (Rendimiento)",
+    "permalink": "/manual-de-inspector/docs/performance"
+  },
+  "next": {
+    "title": "Panel Security (Seguridad del sitio)",
+    "permalink": "/manual-de-inspector/docs/security"
+  }
+}

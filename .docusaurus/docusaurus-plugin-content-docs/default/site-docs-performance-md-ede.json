@@ -1,0 +1,27 @@
+{
+  "id": "performance",
+  "title": "Panel Performance (Rendimiento)",
+  "description": "⏱ ¿Qué es el Panel Performance?",
+  "source": "@site/docs/performance.md",
+  "sourceDirName": ".",
+  "slug": "/performance",
+  "permalink": "/manual-de-inspector/docs/performance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/juandh01/manual-de-inspector/docs/performance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "performance",
+    "title": "Panel Performance (Rendimiento)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Panel Sources (Depuración y Archivos)",
+    "permalink": "/manual-de-inspector/docs/sources"
+  },
+  "next": {
+    "title": "Panel Memory (Memoria y Heap)",
+    "permalink": "/manual-de-inspector/docs/memory"
+  }
+}
