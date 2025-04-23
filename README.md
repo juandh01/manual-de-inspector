@@ -4,7 +4,7 @@
 Este proyecto es un manual técnico detallado sobre el uso de las herramientas del navegador (DevTools) enfocadas en desarrollo web, depuración, análisis de red, accesibilidad, rendimiento y más.
 
 🌐 Disponible online:  
-[https://juandh01.github.io/manual-de-inspector/](https://juandh01.github.io/manual-de-inspector/)
+[https://juandh01.github.io/manual-de-inspector/docs/intro/](https://juandh01.github.io/manual-de-inspector/)
 
 ---
 
